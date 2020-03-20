@@ -4,5 +4,5 @@
 ## Contributing to Open Source on GitHub for beginners
 
 
-[![Contributing to Open Source on GitHub for beginners](https://img.youtube.com/vi/k6KcaMffxac/0.jpg)](https://www.youtube.com/watch?v=k6KcaMffxac"Contributing to Open Source on GitHub for beginners")
+[![Contributing to Open Source on GitHub for beginners](https://img.youtube.com/vi/k6KcaMffxac/0.jpg)](https://www.youtube.com/watch?v=k6KcaMffxac)
 
